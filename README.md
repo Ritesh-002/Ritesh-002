@@ -9,7 +9,7 @@
 
 - 📫 How to reach me? Refer: **mrritesh002@gmail.com**
 
-- ⚡ Hobby: **Video Editor**
+- ⚡ Hobby: **Video Editing**
 
 
 <h3 align="left">Connect with me:</h3>
