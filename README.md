@@ -1,7 +1,7 @@
 ![logo](https://github.com/Ritesh-002/Ritesh-002/blob/main/Banner.jpg)
 <h1 align="center">Hi , I'm Ritesh</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
-<img src"https://github.com/Ritesh-002/Ritesh-002/blob/main/imageIcon.png" alt = "coding" width = "400" align = "right">
+<!-- <img src"https://github.com/Ritesh-002/Ritesh-002/blob/main/imageIcon.png" alt = "coding" width = "400" align = "right"> -->
 
 - 🌱 I’m currently learning **Backend Technology**
 
